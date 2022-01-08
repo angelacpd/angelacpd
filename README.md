@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- I'm a back-end developer based in Florianópolis, Brazil.
+- I currently work on a platform to manage energy contracts.
+- I've been professionally coding in Python for over a year, and I'm loving it.
+- I've also worked with embedded systems and avionics systems.
+- I speak Portuguese, English, and a bit of Italian.
+- I have a Bachelor's degree in Electrical Engineering and a Master's degree in Aeronautical and Mechanical Engineering.
+- You can find me on [LinkedIn - Angela Crepaldi](https://www.linkedin.com/in/angelacrepaldi/?locale=en_US)
+
+
 <!--
 **angelacpd/angelacpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
