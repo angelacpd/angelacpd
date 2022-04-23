@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - I'm a back-end developer based in Florianópolis, Brazil.
-- I currently work at Cornershop.
-- I've worked on a platform to manage energy contracts.
+- I currently work at [Cornershop](https://cornershopapp.com).
 - I've been professionally coding in Python for over a year.
 - I've also worked with embedded systems and avionics systems.
 - I speak Portuguese, English, and a bit of Italian.
