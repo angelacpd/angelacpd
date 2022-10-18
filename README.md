@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm a backend engineer based in Florianópolis, Brazil.
-- I've been professionally coding in Python for nearly two years.
+- I've been professionally coding in Python for two years.
 - I've also worked with embedded systems and avionics systems.
 - I speak Portuguese, English, and a bit of Italian.
 - I have a Bachelor's degree in Electrical Engineering and a Master's degree in Aeronautical and Mechanical Engineering.
