@@ -3,7 +3,8 @@
 - I'm a backend engineer based in Florianópolis, Brazil.
 - I've also worked with embedded systems and avionics systems.
 - I speak Portuguese, English, and a bit of Italian.
-- I have a Bachelor's degree in Electrical Engineering and a Master's degree in Aeronautical and Mechanical Engineering.
+- Bachelor's degree in Electrical Engineering.
+- Master's degree in Aeronautical and Mechanical Engineering.
 - You can find me on [LinkedIn - Angela Crepaldi](https://www.linkedin.com/in/angelacrepaldi/?locale=en_US)
 
 
